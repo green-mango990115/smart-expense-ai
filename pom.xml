@@ -19,8 +19,8 @@
 
     <properties>
         <java.version>17</java.version>
-        <!-- Spring AI version -->
-        <spring-ai.version>1.0.0-M1</spring-ai.version>
+        <!-- Upgraded to stable GA version -->
+        <spring-ai.version>1.0.0</spring-ai.version>
     </properties>
 
     <!-- Spring AI BOM for dependency management -->
@@ -43,10 +43,10 @@
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
 
-        <!-- Spring AI OpenAI Starter (Compatible with DeepSeek/OpenAI format) -->
+        <!-- Spring AI OpenAI Starter (Updated for 1.0.0) -->
         <dependency>
             <groupId>org.springframework.ai</groupId>
-            <artifactId>spring-ai-openai-spring-boot-starter</artifactId>
+            <artifactId>spring-ai-starter-model-openai</artifactId>
         </dependency>
 
         <!-- Lombok, used to reduce boilerplate code -->
@@ -88,15 +88,4 @@
         </plugins>
     </build>
 
-    <!-- Spring AI Maven Repository (Required for Milestone versions) -->
-    <repositories>
-        <repository>
-            <id>spring-milestones</id>
-            <name>Spring Milestones</name>
-            <url>https://repo.spring.io/milestone</url>
-            <snapshots>
-                <enabled>false</enabled>
-            </snapshots>
-        </repository>
-    </repositories>
 </project>

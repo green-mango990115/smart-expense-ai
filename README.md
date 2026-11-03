@@ -33,7 +33,9 @@ This project follows a standard enterprise layered architecture:
 
 ## 📸 API Documentation (Swagger UI)
 
-<img width="1912" height="948" alt="36bbd545eed4c71c64ff2a67c423a058" src="https://github.com/user-attachments/assets/3bea933f-bd99-4902-8a6f-37f9c82ee049" />
+<img width="1912" height="948" alt="cd1ddfac2f7016ad852cb38632466fc6" src="https://github.com/user-attachments/assets/bb7c780d-bc19-43f1-a8f6-d145f292ecbd" />
+Example of an AI agent autonomously calling multiple Java functions (Tools) to calculate exchange rates, check policy limits, and query approval status in one request.
+
 
 ## 🚀 How to Run
 

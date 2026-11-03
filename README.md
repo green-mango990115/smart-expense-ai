@@ -31,6 +31,10 @@ This project follows a standard enterprise layered architecture:
 *   **Testing**: JUnit 5, Mockito
 *   **DevOps**: Docker
 
+## 📸 API Documentation (Swagger UI)
+
+![Swagger UI Screenshot](YOUR_IMAGE_LINK_HERE)
+
 ## 🚀 How to Run
 
 ### Prerequisites

@@ -23,6 +23,7 @@ This project follows a standard enterprise layered architecture:
 *   [x] **Layered Architecture**: Clean separation of Controller, Service, and DTO.
 *   [x] **Global Exception Handling**: Graceful error recovery.
 *   [x] **Dockerized Deployment**: Easy containerized setup.
+*   [x] **AI Function Calling (Agent)**: Uses Spring AI `@Tool` annotations to allow the LLM to autonomously execute Java functions based on user intent.
 
 ## 🛠️ Tech Stack
 

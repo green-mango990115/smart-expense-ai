@@ -33,8 +33,7 @@ This project follows a standard enterprise layered architecture:
 
 ## 📸 API Documentation (Swagger UI)
 
-![Swagger UI Screenshot](<img width="1912" height="948" alt="36bbd545eed4c71c64ff2a67c423a058" src="https://github.com/user-attachments/assets/3bea933f-bd99-4902-8a6f-37f9c82ee049" />
-)
+<img width="1912" height="948" alt="36bbd545eed4c71c64ff2a67c423a058" src="https://github.com/user-attachments/assets/3bea933f-bd99-4902-8a6f-37f9c82ee049" />
 
 ## 🚀 How to Run
 
